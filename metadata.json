@@ -1,0 +1,7 @@
+{
+  "name": "Bababet",
+  "description": "A high-stakes orange throwing betting game featuring Baba the farmer. Bet on the distance before the orange splats!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
